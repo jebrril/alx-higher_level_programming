@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< Updated upstream
 python3 -c "$PYCODE"
+=======
+python3 -c "$PYCODE"
+>>>>>>> Stashed changes

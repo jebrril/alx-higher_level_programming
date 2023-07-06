@@ -1,3 +1,1 @@
-# create you file text for the module doctest
-
-*be a good tester*
+Solved Tasks for Python test driven development at ALX school

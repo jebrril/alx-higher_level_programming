@@ -1,3 +1,1 @@
-# JS warm up
-this repo is just for warmming up
-
+Warming up for JavaScript projects
